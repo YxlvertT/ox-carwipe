@@ -1,3 +1,5 @@
+preview https://streamable.com/4qfud4
+
 🚗 Vehicle Cleanup / Tow System
 
 A lightweight FiveM script that automatically tows inactive vehicles after a configurable amount of time.
